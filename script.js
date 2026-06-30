@@ -1,3 +1,6 @@
-User-agent: *
-Allow: /
-Sitemap: https://houseofrb.it/sitemap.xml
+window.addEventListener("load", () => {
+  setTimeout(() => {
+    const intro = document.getElementById("intro");
+    if (intro) intro.classList.add("hidden");
+  }, 2300);
+});
