@@ -1,16 +1,16 @@
 <!doctype html>
 <html lang="it">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>House of RB | The Pleasure of Elegance</title>
-  <meta name="description" content="House of RB. The Pleasure of Elegance. Private by invitation. Italian elegance, discretion and meaningful moments." />
-  <meta name="robots" content="index, follow" />
-  <meta property="og:title" content="House of RB" />
-  <meta property="og:description" content="The Pleasure of Elegance. Private by invitation." />
-  <meta property="og:type" content="website" />
-  <meta property="og:image" content="assets/hero.jpg" />
-  <link rel="stylesheet" href="style.css" />
+  <meta name="description" content="House of RB. The Pleasure of Elegance. Private by invitation. Italian elegance, discretion and meaningful moments.">
+  <meta name="robots" content="index, follow">
+  <meta property="og:title" content="House of RB">
+  <meta property="og:description" content="The Pleasure of Elegance. Private by invitation.">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="assets/hero.jpg">
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <div class="intro" id="intro">
